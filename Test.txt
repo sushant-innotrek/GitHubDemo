@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Edited by aayush123.
-=======
-Edited by Sushant.
->>>>>>> 92fd58f56d98720c6e2edae7c93ecd80b9835ccd
+This is a test code.
+Edited in feature branch!
